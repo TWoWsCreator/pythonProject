@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae96f27b-4a08-4f1d-be2b-4825a891edac" name="Changes" comment="" />
+    <list default="true" id="ae96f27b-4a08-4f1d-be2b-4825a891edac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new.py" beforeDir="false" afterPath="$PROJECT_DIR$/new.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +21,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JdFOLet0Y2BRAo7GCmUiY1I7Mp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -130,9 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.new" />
-        <item itemvalue="Python.TES_2" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.TES_2" />
+        <item itemvalue="Python.new" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.TES_2" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +171,8 @@
       <workItem from="1672911966593" duration="3453000" />
       <workItem from="1672917435171" duration="13199000" />
       <workItem from="1673039197157" duration="502000" />
+      <workItem from="1675865547669" duration="619000" />
+      <workItem from="1675866196583" duration="303000" />
     </task>
     <servers />
   </component>
